@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @maulikshah1910
+- 👋 Hi, I’m Maulik Shah
 - 👀 I’m interested in Laravel, Core PHP, HTML, CSS, jQuery
-- 🌱 I’m currently learning React
+- 🌱 I’m currently working on Laravel and Core PHP.
 - 📫 How to reach me ...
 
 <!---
